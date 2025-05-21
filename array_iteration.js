@@ -45,7 +45,6 @@ console.log(newNumber);
 
     This example creates a new array from elements with a value larger than 10:
  */
-
 function filterFunction(value, index, array) {
   return value > 10;
 }
